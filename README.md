@@ -14,12 +14,16 @@ Each field is taken directly from a column in Excel table. Every product in the 
 
 <ins> **Instructions**  </ins>
 1. [Export All Products From Shopify ](https://help.shopify.com/en/manual/products/import-export/export-products)
-2. Convert downloaded CSV file to Excel File
-3. Upload Excel file to Microsoft Access (External Data -> New Data Source -> Excel)
+2. Open "Shopify-MS-Access-DB.zip" file and download Microsoft Access Project (Click on "View Raw")
+   
+![View Raw](https://github.com/user-attachments/assets/be8dcbbe-3a7a-48c7-8584-282154c13cba)
+
+3. Convert downloaded CSV file to Excel File
+4. Open Microsoft Access project and upload Excel file to Microsoft Access (External Data -> New Data Source -> Excel)
    
 ![New Data Source](https://github.com/user-attachments/assets/8be047f5-0838-425a-a590-0f778c0c57a3)
 
-4. Run the SQL queries in the following order: Create Tables (Create Product List Table, Create Product Variants Table), Add Primary Keys (Add Product List Primary Key, Add Product Variants Primary Key), Add Foreign Key (more details in the "SQL" folder)
+5. Run the SQL queries in the following order: Create Tables (Create Product List Table, Create Product Variants Table), Add Primary Keys (Add Product List Primary Key, Add Product Variants Primary Key), Add Foreign Key (more details in the "SQL" folder)
 
 *Updated as of 3/17/2025
 
