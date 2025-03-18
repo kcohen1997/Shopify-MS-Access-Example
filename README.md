@@ -1,6 +1,8 @@
 # Shopify-MS-Access-Example
 Microsoft Access example dividing Shopify data in separate Product and Product Variant Tables
 
+Resource:
+https://help.shopify.com/en/manual/products/import-export/using-csv
 
 Shopify is a popular cloud-based e-comemrce platform that compiles all product information into one downloadable CSV file. While this is initially convenient, it can be difficult to tell how this information is structured (for example, how many different types or "variants" are there of the same product?)
 
@@ -22,9 +24,6 @@ Each field is taken directly from a column in Excel table. Every product in the 
 ![New Data Source](https://github.com/user-attachments/assets/8be047f5-0838-425a-a590-0f778c0c57a3)
 
 5. Run the SQL queries in the following order: Create Tables (Create Product List Table, Create Product Variants Table), Add Primary Keys (Add Product List Primary Key, Add Product Variants Primary Key), Add Foreign Key (more details in the "SQL" folder)
-
-Resource:
-https://help.shopify.com/en/manual/products/import-export/using-csv
 
 *Updated as of 3/17/2025
 
