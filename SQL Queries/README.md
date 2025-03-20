@@ -24,4 +24,5 @@ SQL Queries should be run in the following order:
 
 7. **Add Foreign Key**: Sets Product Variant foreign key as "Handle" and therefore creates a One-To-Many relationship between Product List and Product Variants (One product can have one or more Product Variants)
 
-![Add Foreign Key](https://github.com/user-attachments/assets/1ee126a1-a2a7-476a-851d-06ff2a1e9988)
+![Remove Variant Columns From Product List Table](https://github.com/user-attachments/assets/cc4ee9d5-a7fc-4895-b803-6a7ac034f537)
+
