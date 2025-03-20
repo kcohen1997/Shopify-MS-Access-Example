@@ -23,7 +23,7 @@ Each field is taken directly from a column in Excel table. Every product in the 
    
 ![New Data Source](https://github.com/user-attachments/assets/8be047f5-0838-425a-a590-0f778c0c57a3)
 
-5. Run provided SQL queries in the following order: Create Product List Table, Remove Variant Columns From Product List Table, Create Product Variants Table, Add Primary Keys (Add Product List Primary Key, Add Product Variants Primary Key), Add Foreign Key (more details in the "SQL" folder)
+5. Run provided SQL queries in the following order: Create Product List Table, Remove Variant Columns From Product List Table, Create Product Variants Table, Add Product List Primary Key, Add Product Variants Primary Key, Add Foreign Key (more details in the "SQL" folder)
 
 *Updated as of 3/17/2025
 
