@@ -19,7 +19,7 @@ Each field is taken directly from a column in Excel table. Every product in the 
 ![View Raw](https://github.com/user-attachments/assets/be8dcbbe-3a7a-48c7-8584-282154c13cba)
 
 3. Convert downloaded CSV file to Excel File
-4. Open Microsoft Access project and upload Excel file to Microsoft Access (External Data -> New Data Source -> Excel)
+4. Open Microsoft Access project and upload Excel file to Microsoft Access (External Data -> New Data Source -> Excel) Create a **Linked Table**
    
 ![New Data Source](https://github.com/user-attachments/assets/8be047f5-0838-425a-a590-0f778c0c57a3)
 
