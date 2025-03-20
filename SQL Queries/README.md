@@ -14,15 +14,15 @@ SQL Queries should be run in the following order:
 
 ![Create Product Variants Table](https://github.com/user-attachments/assets/eaea8374-7b78-462c-8bfc-99520cdd9664)
 
-5. **Add Product List Primary Key**: Sets Primary Key for Product List as "Handle"
+4. **Add Product List Primary Key**: Sets Primary Key for Product List as "Handle"
    
 ![Add Product List Primary Key](https://github.com/user-attachments/assets/1f50a9c2-9b85-4e68-918f-963a71c6e55e)
 
-6. **Add Product Variants Primary Key**: Sets Primary Key for Product Variants as "Variant SKU" and "Handle" (this is because "Variant SKU" is not a required field, "Handle" is required but is not unique )
+5. **Add Product Variants Primary Key**: Sets Primary Key for Product Variants as "Variant SKU" and "Handle" (this is because "Variant SKU" is not a required field, "Handle" is required but is not unique )
    
 ![Add Product Variants Primary Key](https://github.com/user-attachments/assets/66972102-063a-423a-bb2b-d6880d74a541)
 
-7. **Add Foreign Key**: Sets Product Variant foreign key as "Handle" and therefore creates a One-To-Many relationship between Product List and Product Variants (One product can have one or more Product Variants)
+6. **Add Foreign Key**: Sets Product Variant foreign key as "Handle" and therefore creates a One-To-Many relationship between Product List and Product Variants (One product can have one or more Product Variants)
 
 ![Remove Variant Columns From Product List Table](https://github.com/user-attachments/assets/cc4ee9d5-a7fc-4895-b803-6a7ac034f537)
 
