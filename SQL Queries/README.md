@@ -14,7 +14,7 @@ SQL Queries should be run in the following order:
 
 ![Create Product Variants Table](https://github.com/user-attachments/assets/eaea8374-7b78-462c-8bfc-99520cdd9664)
 
-4. **Create Options Table**: Using the uploaded product Excel file, create new Options table by combining Option Name and Value columns 
+4. **Create Option List Table**: Using the uploaded product Excel file, create Option List Table by combining Option Name and Value columns 
    
 ![Create Options Table](https://github.com/user-attachments/assets/68de17c3-021b-48ab-9c43-3bd8ed1d6c18)
 
