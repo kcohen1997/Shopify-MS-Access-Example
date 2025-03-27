@@ -1,5 +1,8 @@
 # Shopify-MS-Access-Example
+*Updated as of 3/27/2025
+
 Microsoft Access example dividing Shopify data in separate Product and Product Variant Tables
+
 
 Resource:
 https://help.shopify.com/en/manual/products/import-export/using-csv
@@ -24,8 +27,6 @@ Each field is taken directly from a column in Excel table. Every product in the 
 ![New Data Source](https://github.com/user-attachments/assets/8be047f5-0838-425a-a590-0f778c0c57a3)
 
 5. Run provided SQL queries in the order provided in "SQL Queries" folder
-
-*Updated as of 3/17/2025
 
 
 
