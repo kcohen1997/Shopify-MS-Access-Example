@@ -1,5 +1,5 @@
 # Shopify-MS-Access-Example
-*Updated as of 3/27/2025
+*Updated as of 3/28/2025
 
 Microsoft Access example dividing Shopify data in separate Product and Product Variant Tables
 
