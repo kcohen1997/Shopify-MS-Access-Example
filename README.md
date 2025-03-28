@@ -26,7 +26,9 @@ Each field is taken directly from a column in Excel table. Every product in the 
    
 ![New Data Source](https://github.com/user-attachments/assets/8be047f5-0838-425a-a590-0f778c0c57a3)
 
-Create a Linked Table from the Product Excel file. Name the Linked Table to "Product Export"
+Create a **Linked Table** from the Product Excel file. Name the Linked Table to "Product Export".
+
+![427701653-670e1533-85b0-4d02-b782-98d889aeded6](https://github.com/user-attachments/assets/3711a533-bcdd-4a82-998b-81ebe73ff930)
 
 5. Run provided SQL queries in the order provided in "SQL Queries" folder
 
