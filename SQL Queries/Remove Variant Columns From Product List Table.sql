@@ -1,0 +1,2 @@
+ALTER TABLE [Product List]
+DROP COLUMN  [Variant SKU], [Variant Price], [Option1 Value], [Option1 Linked To], [Option2 Value], [Option2 Linked To], [Option3 Value], [Option3 Linked To], [Image Src], [Image Position], [Image Alt Text], [Variant Image], [Variant Grams], [Variant Inventory Qty], [Variant Inventory Policy], [Variant Fulfillment Service], [Variant Requires Shipping], [Variant Taxable], [Variant Weight Unit], [Variant Inventory Tracker], [Variant Compare At Price], [Variant Barcode], [Variant Tax Code], [Cost per item], [Price / International]
